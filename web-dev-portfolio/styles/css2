@@ -1,0 +1,162 @@
+
+
+.open-sans-normal {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+/* shared style */
+.text-primary{
+    color: rgb(102, 134, 152)
+}
+.dark-2{
+    color: #28a231;
+}
+.btn-primary{
+    
+    background-color: #cf7b1c;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    padding: 18px 35;
+    border-radius: 5px;
+    border: none;
+}
+/*header*/
+.header{
+    background-image: url('../images/developer.png'),url('../images/header_bg.png');
+    background-repeat: no-repeat;
+    background-position: top left,bottom right;
+    
+}
+
+
+
+/* Nev styles */
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 50px 200px;
+    life-style: none;
+    margin-right: 50px;
+}
+.nav-title{
+    font-weight: 800px;
+    font-size: 45px;
+}
+nav ul li {
+    list-style: none;
+    margin-right: 51px;
+}
+nav li a{
+    text-decoration: none;
+    font-size: 20px;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+/** banner styles*/
+.banner{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 50px 0 200px;
+
+}
+banner-content{
+    max-width: 600px;
+    font-weight: bold;
+    font-size: 85px;
+}
+.banner-greetings {
+    font-size: 45px;
+    font-weight: 600;
+}
+
+.banner-title{
+    font-weight: bold;
+    font-size: 85px;
+}
+.banner-profile-pic{
+    width: 300px;
+    height: 600px;
+}
+
+/**.banner-content{
+    font-weight: bold;
+    font-size: 85px;
+
+}
+**/
+
+.banner-description{
+    font-size: medium;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.section-title{
+    font-size: 35px;
+    font-weight: bold;
+    color: #321e07;
+
+}
+
+
+
+.section-description{
+    font-size: 18px;
+    color: rgb(31, 133, 92);
+}
+
+
+.secondary-bg{
+    background-color: #fff8f3;
+}
+/* about styles*/
+.about{
+    border-radius: 10px;
+    padding: 130px 150px;
+    text-align: center;
+    margin-top: 130px;
+}
+
+main{
+    max-width: 1140px;
+    margin-right: 0 auto;
+}
+.about-items{
+    display: flex;
+    justify-content: space-around;
+}
+.item-description{
+    font-weight: 600;
+}
+
+
+
+
