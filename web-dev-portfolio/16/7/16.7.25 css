@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>web devloper Portfolio</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles/portfolio.css">
+</head>
+<body class="open-sans-normal">
+    <header class="header">
+        <nav>
+            <h3
+            class="nav-title">Kha<span class="text-primary">l</span>id</h3>
+            <ul>
+                <li><a class="dark-2" href="">Portfolio</a></li>
+                <li><a class="dark-2" href="">Blog</a></li>
+                <li><a href=""><button class="btn-primary">Hire Me</button></a></li>
+            </ul>
+        </nav>
+
+        <div class="banner">
+            <div class="banner-content">
+                <h4 class="banner-greetings dark-2">Hi, I am</h4>
+                <h1 class="banner-title">Khalid Sadi</h1>
+                <p class="banner-description">Welcome to my professional profile — a space where my passion for technology meets a deep sense of purpose. Here, I combine technical skills with creative thinking to explore innovative solutions in cloud computing, DevOps, and software development. Whether it's building impactful systems or contributing to collaborative tech communities, I’m driven by a commitment to continuous learning, leadership, and meaningful progress.
+
+</p>
+                <button class="btn-primary">Download CV</button>
+                <button class="btn-primary">contact</button>
+                    
+
+            </div>
+
+            <img class="banner-profile-pic" src="images/e94fd2d2-1697-43ac-acea-47572b45ffe5.jpg" alt="">
+        </div>
+
+    </header>
+
+
+
+    ><header class="header secondary-bg">..
+
+    </header>
+
+
+
+    <main>
+        <section class="about">
+            <h3 class="section-title">About Me</h3>
+            <p class="section-description">I’m Khalid Sadi, a final-year Computer Science & Engineering student at Northern University Bangladesh and the Honorary Advisor of the NUB Computer Club. Formerly serving as Vice President, I’ve had the privilege of leading initiatives that foster tech learning, collaboration, and innovation among students.
+
+My passions lie in cloud computing, DevOps, and software development. I actively explore platforms like Azure and GitHub Actions to build modern, scalable solutions. I’m also deeply committed to continuous learning and leadership, aiming to bridge the gap between academia and real-world tech applications.
+
+Whether it's mentoring junior students, organizing tech events, or diving into hands-on projects, I strive to grow with purpose and empower others to do the same.</p>
+
+            <div class="about-items">
+                <!--.about-item*4>p.item-title+p.item-description--> 
+                <div class="about-item">
+                    <p class="item-title">name</p>
+                    <p class="item-description-">Khalid Sadi</p>
+                </div>
+                <div class="about-item">
+                    <p class="item-title">Email</p>
+                    <p class="item-description-">khalidsadi494@gmail.com</p>
+                </div>
+                <div class="about-item">
+                    <p class="item-title">Date of Birth</p>
+                    <p class="item-description-">Nov 05,2002</p>
+                </div>
+                <div class="about-item">
+                    <p class="item-title">From</p>
+                    <p class="item-description-">Dhaka, Bd</p>
+                </div>
+
+            </div>
+
+
+        </section>
+        
+        
+        <section class="skills">..
+
+        </section>
+        <section class="resume">
+            <h3 class="section-title">A summary of my resume</h3>
+            <div class="resume-container">
+            <div class="resume-column">
+                <h3 class="resume-column-title">My Education</h3>
+                <div class="experience">
+                    <h4 class="experience-tile">BSC in Computer Science & Engineering</h4>
+                    <h5 class="experience-sub-title">Northern University Bangladesh</h5>
+                    <experience-description class="experience-description">Final-year CSE student at Northern University Bangladesh with hands-on experience in HTML, Python, SQL, C++, and C. Skilled in cloud computing and DevOps tools like GitHub and Azure. Former Vice President and current Honorary Advisor of NUB Computer Club, with a strong background in leadership, event management, and mentoring.</div>
+                </div>
+                <hr>
+                <div class="experience">
+                    <h4 class="experience-tile">AI Annotation </h4>
+                    <h5 class="experience-sub-title">Contributed to AI model training by annotating large-scale image, text, or audio datasets with precise and consistent labels.</h5>
+                    <experience-description class="experience-description">Worked as an AI Annotation Intern at QuantigoAI during Ramadan, focusing on annotating and labeling large-scale datasets with high accuracy to support machine learning model training. Handled text, image, or audio data according to strict guidelines and collaborated with the team to meet project deadlines. Gained hands-on experience with data labeling tools and contributed to improving AI model performance through quality data preparation.</div>
+                </div>
+                <hr>
+
+
+                <div class="resume-container">
+                <div class="resume-column">
+                <div class="experience">
+                    <h4 class="experience-tile">Software Development & Projects.</h4>
+                    <h5 class="experience-sub-title">Building web and software applications using diverse programming languages and technologies</h5>
+                    <experience-description class="experience-description">I have hands-on experience building web and software applications using languages like HTML, CSS, Python, SQL, C++, and C. Through academic projects and self-driven initiatives, I’ve developed responsive websites, backend scripts, and efficient database solutions. These experiences have strengthened my programming skills and prepared me for real-world software development challenges.</div>
+                </div>
+                <hr>
+
+
+
+
+
+                <div class="experience">
+                    <h4 class="experience-tile">Leadership & Club Roles</h4>
+                    <h5 class="experience-sub-title">Former Vice President, NUB Computer Club</h5>
+                    <experience-description class="experience-description">As Former Vice President of NUB Computer Club, I led and coordinated technical events, workshops, and competitions to promote student engagement and skill development. I collaborated with the executive team to drive club growth, foster industry partnerships, and organize seminars featuring professionals. I also mentored junior members, facilitating knowledge-sharing sessions on programming, cloud computing, and DevOps, ensuring a vibrant and supportive tech community.</div>
+                </div>
+                <hr>    
+                <div class="resume-container">
+                <div class="resume-column">
+                <div class="experience">
+                    <h4 class="experience-tile">IT.</h4>
+                    <h5 class="experience-sub-title">CCNA in BUET</h5>
+                    <experience-description class="experience-description"> Completed the Cisco Certified Network Associate (CCNA) course at BUET, gaining foundational knowledge and hands-on skills in networking concepts including IP addressing, subnetting, routing protocols, switching, and network troubleshooting. Developed practical experience configuring Cisco routers and switches, understanding network security basics, and working with LAN/WAN technologies.</div>
+                </div>
+                <hr>
+                <div class="experience">
+                    <h4 class="experience-tile">Academic Progress</h4>
+                    <h5 class="experience-sub-title">Completed 12th semester of CSE at Northern University Bangladesh.</h5>
+                    <experience-description class="experience-description">Completed the 12th semester of BSc in Computer Science & Engineering at Northern University Bangladesh. Currently awaiting thesis viva and field work viva to officially conclude the final semester.</div>
+                </div>
+                <hr>
+            
+
+
+
+
+
+
+
+            </div>
+            
+
+
+
+
+
+
+
+
+
+              
+
+            </div>
+
+        </section>
+
+
+    </main>
+    <footer>
+
+        
+    </footer>
+</body>
+</html> 
