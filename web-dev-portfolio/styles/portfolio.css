@@ -119,6 +119,73 @@ banner-content{
 
 
 
+.section-title{
+    font-size: 35px;
+    font-weight: bold;
+    color: #321e07;
+
+}
+
+
+
+.section-description{
+    font-size: 18px;
+    color: rgb(31, 133, 92);
+}
+
+
+.secondary-bg{
+    background-color: #fff8f3;
+}
+/* about styles*/
+.about{
+    border-radius: 10px;
+    padding: 130px 150px;
+    text-align: center;
+    margin-top: 130px;
+}
+
+main{
+    max-width: 1140px;
+    margin-right: 0 auto;
+}
+.about-items{
+    display: flex;
+    justify-content: space-around;
+}
+.item-description{
+    font-weight: 600;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* resume section  */
+.resume-container{
+    display: flex;
+    
+}
+
+.experience-description, .experience-sub title{
+    color: #757575;
+}
+.experience-sub-title{
+    font-size: 20px;
+    font-weight: 600px;
+    margin-bottom: 20px;
+}
+.resume hr{
+    margin: 30px 5px;
+}
+
 
 
 
